@@ -1,0 +1,21 @@
+body {
+    background: blue;
+}
+h1 {
+    background: brown;
+    margin: 20px;
+    margin-inline-start: -35px;
+}
+#row1 {
+    margin-inline-start: -35px;
+    background: gray;
+}
+#panel1 {
+    background: red;
+}
+#row2 {
+    background: red;
+}
+#col-md-3 {
+    background: red;
+}
